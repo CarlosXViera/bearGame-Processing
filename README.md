@@ -1,2 +1,3 @@
 # bearGame-Processing
-Game created for my CST1101 class.
+
+The objective was to create a game using processing, which is based on Java. The result was small litte game my nephew could play.
